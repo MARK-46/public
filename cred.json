@@ -8,5 +8,6 @@
 	"logger": 0,
 	"users": {
 		"EB1:B31ED566411470": { "E": false, "M": "CFD0C8C2C5D220D1CEC7C4C0D2C5CBDC21" }
-	}
+	},
+	"banner": "https://raw.githubusercontent.com/MARK-46/public/master/img/banner.bmp"
 }
